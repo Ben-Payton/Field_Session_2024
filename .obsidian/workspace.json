@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BioX_Detailed_Procedure.md",
+                "file": "Expression_of_sfGFP_Experiment2.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1962caea832bcb87",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BioX_Detailed_Procedure.md",
+                "file": "Expression_of_sfGFP_Experiment2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BioX_Detailed_Procedure.md",
+                "file": "Expression_of_sfGFP_Experiment2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BioX_Detailed_Procedure.md"
+                "file": "Expression_of_sfGFP_Experiment2.md"
               }
             }
           }
@@ -181,13 +180,13 @@
   },
   "active": "7e5eb313a96b8df2",
   "lastOpenFiles": [
-    "BioX_Procedure_Overview.md",
-    "Expression_of_sfGFP_Perfect_Experiment.md",
-    "BioX_Detailed_Procedure.md",
-    "MeetingNotes240404.md",
-    "Expression_of_sfGFP_Experiment1.md",
     "Expression of sfGFP using mRNA, linear DNA and cDNA Experiment 1.md",
     "Expression_of_sfGFP_Experiment2.md",
+    "Expression_of_sfGFP_Experiment1.md",
+    "BioX_Detailed_Procedure.md",
+    "BioX_Procedure_Overview.md",
+    "Expression_of_sfGFP_Perfect_Experiment.md",
+    "MeetingNotes240404.md",
     "~$oX_Procedure_240412.docx",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
