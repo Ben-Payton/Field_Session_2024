@@ -10,4 +10,4 @@ Note Taker: Ben Payton
 - The DNA expression kit is very expensive. therefore the linearization of the DNA will likely be cut from the procedure. 
 ## Deliverables
 - Ben will make procedure documents that look similar to the ones on canvas right now. Send them to Christian Beren to be checked.
-- Ben will make slides that he can present introducing the concept of experimental design and a little about his research and what being a researcher loons like.
+- Ben will make slides that he can present introducing the concept of experimental design and a little about his research and what being a researcher looks like.
