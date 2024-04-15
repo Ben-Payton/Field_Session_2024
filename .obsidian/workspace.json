@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MeetingNotes240404.md",
+                "file": "BioX_Week/MeetingNotes240404.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BioX_Procedure_Overview.md",
+                "file": "BioX_Week/BioX_Procedure_Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BioX_Detailed_Procedure.md",
+                "file": "BioX_Week/BioX_Detailed_Procedure.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BioX_Detailed_Procedure.md",
+                "file": "BioX_Week/BioX_Detailed_Procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BioX_Detailed_Procedure.md",
+                "file": "BioX_Week/BioX_Detailed_Procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BioX_Detailed_Procedure.md"
+                "file": "BioX_Week/BioX_Detailed_Procedure.md"
               }
             }
           }
@@ -178,15 +178,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7e5eb313a96b8df2",
+  "active": "6a0625823f96a509",
   "lastOpenFiles": [
-    "BioX_Procedure_Overview.md",
-    "Expression_of_sfGFP_Perfect_Experiment.md",
-    "Expression_of_sfGFP_Experiment1.md",
-    "Expression_of_sfGFP_Experiment2.md",
+    "BioX_Week",
+    "BioX_Week/BioX_Procedure_Overview.md",
+    "BioX_Week/Expression_of_sfGFP_Perfect_Experiment.md",
+    "BioX_Week/Expression_of_sfGFP_Experiment1.md",
+    "BioX_Week/Expression_of_sfGFP_Experiment2.md",
     "Expression of sfGFP using mRNA, linear DNA and cDNA Experiment 1.md",
-    "BioX_Detailed_Procedure.md",
-    "MeetingNotes240404.md",
+    "BioX_Week/BioX_Detailed_Procedure.md",
+    "BioX_Week/MeetingNotes240404.md",
     "~$oX_Procedure_240412.docx",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
