@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expression_of_sfGFP_Experiment2.md",
+                "file": "BioX_Detailed_Procedure.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expression_of_sfGFP_Experiment2.md",
+                "file": "BioX_Detailed_Procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expression_of_sfGFP_Experiment2.md",
+                "file": "BioX_Detailed_Procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expression_of_sfGFP_Experiment2.md"
+                "file": "BioX_Detailed_Procedure.md"
               }
             }
           }
@@ -180,12 +180,12 @@
   },
   "active": "7e5eb313a96b8df2",
   "lastOpenFiles": [
-    "Expression of sfGFP using mRNA, linear DNA and cDNA Experiment 1.md",
-    "Expression_of_sfGFP_Experiment2.md",
-    "Expression_of_sfGFP_Experiment1.md",
-    "BioX_Detailed_Procedure.md",
     "BioX_Procedure_Overview.md",
     "Expression_of_sfGFP_Perfect_Experiment.md",
+    "Expression_of_sfGFP_Experiment1.md",
+    "Expression_of_sfGFP_Experiment2.md",
+    "Expression of sfGFP using mRNA, linear DNA and cDNA Experiment 1.md",
+    "BioX_Detailed_Procedure.md",
     "MeetingNotes240404.md",
     "~$oX_Procedure_240412.docx",
     "~WRL0001.tmp",

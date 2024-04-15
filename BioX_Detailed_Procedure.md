@@ -55,7 +55,7 @@
 18. Place the column in a clean, labeled 1.5 mL microcentrifuge tube. 
 19. To elute DNA, add 50 uL Buffer EB (10 mM TrisCl, pH 8.5) to the center of the column and let stand for 1 min 
 20. Centrifuge for 60 s in the Accuspin at 17,900x g at 4$\degree{}$C. KEEP THE FLOW-THROUGH, IT IS YOUR SAMPLE (cDNA)! 
-21. Nanodrop plasmid (cDNA) to determine the concentration and save one aliquot (250 ng) at -20$\degree{}$C for gel electrophoresis, and another aliquot (500 ng – 1 ug) at -20$\degree{}$C for in vitro translation 
+21. Nanodrop plasmid (cDNA) to determine the concentration and save one aliquot (250 ng) at -20$\degree{}$C for gel electrophoresis, and another aliquot (500 ng – 1 ug) at -20$\degree{}$C for _in vitro_ translation 
 22. Store the remaining sample at 4$\degree{}$C until the next step is ready to be performed.
 #### Agarose gel electrophoresis of cDNA plasmids 
 ##### Materials: 
